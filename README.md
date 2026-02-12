@@ -311,5 +311,10 @@ To evolve this system into production-grade enterprise deployment:
 - Implement API quota monitoring.
 - Add fallback model support.
 
+- ## Live Workflow Demo
+
+![Workflow Demo](assets/workflow-demo.gif.gif)
+
+
 
 
